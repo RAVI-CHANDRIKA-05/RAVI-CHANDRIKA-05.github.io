@@ -10,7 +10,7 @@ This repository contains files for my Data Science personal projects portfolio
 This is my repository containing the files for my portfolio.
 This amazing portfolio was possible due to this awesome template from HTML5 UP.
 
-## ⚡ [Link to the awesome website](https://html5up.net/)
+#### ⚡ [Link to the awesome website](https://html5up.net/)
 The templates in this website are free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
