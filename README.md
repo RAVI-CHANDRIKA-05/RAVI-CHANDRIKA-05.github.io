@@ -1,8 +1,4 @@
-# RAVI-CHANDRIKA-05.github.io
-This repository contains files for my Data Science personal projects portfolio
-
-# My GitHub Pages Repository! 
-
+# RAVI-CHANDRIKA-05.github.io (My GitHub Pages Repository! )
 Welcome to my GitHub Pages repository! This repository contains the content for my personal website hosted on GitHub Pages.
 
 ## About This Project
